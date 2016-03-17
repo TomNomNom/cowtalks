@@ -1,0 +1,13 @@
+# cowtalks
+
+A shell script for running lightning talks with a cow as a compere.
+
+Talks are in the talks file in the format:
+
+    presenter name;talk description;filename
+
+## Requirements
+
+* Linux / bash
+* [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
+* [Impressive](http://impressive.sourceforge.net/)
