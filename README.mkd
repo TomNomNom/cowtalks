@@ -11,3 +11,4 @@ Talks are in the talks file in the format:
 * Linux / bash
 * [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 * [Impressive](http://impressive.sourceforge.net/)
+* [lolcat](https://github.com/busyloop/lolcat)
